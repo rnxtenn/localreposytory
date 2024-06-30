@@ -5,3 +5,4 @@ public class rahul {
         System.out.println("Wellcome bro. How are you?");
     }
 }
+// mkdir is for make new directory
